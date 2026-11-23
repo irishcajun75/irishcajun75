@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Virginia Saucier
 
-<!--
-**irishcajun75/irishcajun75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning to code at Codex Academy. I'm building with HTML, CSS, and JavaScript, one project at a time.
 
-Here are some ideas to get you started:
+## Learning now
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working on
+- Maria's Hair Co. website
+- Week 4 JavaScript in VS Code and Node.js
+
+## Find my work
+- [My Week 4 repo](https://github.com/irishcajun75/codex-level-one-week-four-day-one)
